@@ -1,0 +1,7 @@
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\bin\Debug\ConAppBuilderEx.exe.config
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\bin\Debug\ConAppBuilderEx.exe
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\bin\Debug\ConAppBuilderEx.pdb
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\obj\Debug\ConAppBuilderEx.csproj.AssemblyReference.cache
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\obj\Debug\ConAppBuilderEx.csproj.CoreCompileInputs.cache
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\obj\Debug\ConAppBuilderEx.exe
+C:\Users\Akash Srivastava\source\repos\HexawareAdvanceTraining\Day-3\ConAppBuilderEx\obj\Debug\ConAppBuilderEx.pdb
